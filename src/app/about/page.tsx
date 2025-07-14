@@ -1,3 +1,3 @@
 export default function AboutPage() {
-    return <div>This is the shop page</div>;
+    return <div>This is the about page</div>;
 }
